@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t akhet/ubuntu-test .
+docker build -t akhet/ubuntu-xterm .
